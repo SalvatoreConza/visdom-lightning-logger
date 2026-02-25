@@ -1,4 +1,4 @@
-🧿 # Visdom Logger for PyTorch & PyTorch Lightning
+#🧿 Visdom Logger for PyTorch & PyTorch Lightning
 
 Real-time training visualization for PyTorch Lightning using Visdom, with per-layer gradient norm monitoring via hooks.
 
