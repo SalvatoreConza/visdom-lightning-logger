@@ -1,6 +1,7 @@
 # 🧿 Visdom Logger for PyTorch & PyTorch Lightning
 
-Real-time training visualization for PyTorch Lightning using Visdom, with per-layer gradient norm monitoring via hooks. \ You may want to look at the python notebook first.
+Real-time training visualization for PyTorch Lightning using Visdom, with per-layer gradient norm monitoring via hooks.    
+You may want to look at the python notebook first.
 
 ## Overview
 
